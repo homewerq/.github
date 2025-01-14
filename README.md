@@ -2,16 +2,6 @@
 
 杂项文件堆积池
 
-## 格式化建议
+## 代码格式化
 
-### .prettierrc.json
-
-```json
-{
-  "useTabs": false,
-  "tabWidth": 2,
-  "singleQuote": true,
-  "semi": false,
-  "printWidth": 80
-}
-```
+### [.prettierrc.json](.prettierrc.json)
